@@ -1,0 +1,56 @@
+<h1>SEDEF GİZEM ORULLUOĞLU</h1>
+<h2>Hakkımda</h2>
+<h3>Merhaba.Ben Gizem.Gaziantep'te yaşıyorum. Araştırma yapmayı ve müzik dinlemeyi çok severim. Yazılım ile alakalı çalışmalar yapmayı çok seviyorum.</h3>
+
+<h2>İLGİ ALANLARIM</h2>
+
+<h2>
+    <ol>
+     <li>Dizi</li>
+        <ul>
+            <li> <a href="https://www.imdb.com/title/tt0460649/">
+                How I Met Your Mother?
+            </a></li>
+        </ul>
+        <ul>
+             <li>Friends</li>
+        </ul>
+        <ul>
+              <li>Stranger Things</li>
+         </ul>
+
+     <li>Film</li>
+     <ul>
+        <li>Ice Age</li>
+     </ul>
+     <ul>
+         <li> Madagaskar</li>
+     </ul>
+     <ul>
+        <li>Frozen</li>
+     </ul>
+     <li>Kitap</li>
+        <ul>
+            <li>Beyaz Zambaklar Ülkesindee</li>
+        </ul>
+        <ul>
+            <li> <a href="https://www.goodreads.com/book/show/50211653-ask-ve-gurur">
+                Aşk ve Gurur
+            </a></li>
+        </ul>
+        <ul>
+            <li>Suç ve Ceza</li>
+        </ul>
+    </ol>
+</h2>
+
+
+
+<h2>Sevdiğim Dizi</h2>
+
+<img width="300" height="300" src="https://www.indyturk.com/sites/default/files/article/main_image/2021/06/07/681361-2038699215.jpg" alt="">
+
+<h3>How I Met Your Mother?</h3>
+<h4>Bu dizi bir babanın iki çocuğuna annesiyle nasıl tanıştığını anlatarak başlıyor.Bunları anlatırken arkadaşları ile yaşadığı maceraya da şahit oluyoruz.<strong>İzlemenizi tavsiye ederim.</strong></h4>
+
+<h4>Bu dizi dokuz sezonluk bir dizidir.</h4>
